@@ -1,3 +1,4 @@
+import 'package:appfluter8_lojavirtual/screens/tabs/home_tab.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
